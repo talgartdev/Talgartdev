@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archisgod&label=Profile%20views&color=0e75b6&style=flat" alt="archisgod" /> </p>
 
-- 🌱 I’m currently learning **Springboot, Django**
+- 🌱 I’m currently learning **Springboot, Fluttery Dart**
 
 - 📫 How to reach me **herostenti@mail.ru**
 
