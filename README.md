@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot, Fluttery Dart**
 
-- 📫 How to reach me **herostenti@mail.ru**
+- 📫 How to reach me **nurdinovtalgart@gmail.com**
 
 - ⚡ Fun fact **I am a surviving student**
 
